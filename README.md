@@ -1,30 +1,21 @@
-# Hi, I'm Jamike Obikwelu 👋<br>
+# 💫 About Me:
+Hi, I'm Jamike Obikwelu 👋<br>Full Stack Web Developer focused on building modern, responsive, and scalable web applications.<br><br>I enjoy transforming ideas into clean, user-friendly digital experiences using modern web technologies.<br><br>🚀 About Me<br>💻 Full Stack Web Developer<br>🌱 Continuously improving my skills in modern web development and software engineering.<br>🎯 Passionate about creating performant, accessible, and maintainable applications.<br>🤝 Open to collaboration on meaningful web development projects.<br>🏆 Certifications<br>✅ CompTIA Frontend Web Development Certification<br>✅ CompTIA Backend Web Development Certification<br>🌐 Portfolio<br>🔗 My Portfolio Website<br><br>🔗 Connect With Me<br>LinkedIn<br>Twitter<br>📫 Contact<br>Email : jamikeobikwelu@gmail.com<br>Feel free to connect with me for collaborations, professional opportunities, or discussions about web development.
 
-Full Stack Web Developer focused on building modern, responsive, and scalable web applications.<br>
 
-I enjoy transforming ideas into clean, user-friendly digital experiences using modern web technologies.<br>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/obikwelu.jamike/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jamike-obikwelu-echiegbue/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/JObikwelu2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamikeobikwelu@gmail.com) 
 
-## 🚀 About Me<br>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=flat&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jamikeobi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jamikeobi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jamikeobi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 💻 Full Stack Web Developer<br>
-- 🌱 Continuously improving my skills in modern web development and software engineering.<br>
-- 🎯 Passionate about creating performant, accessible, and maintainable applications.<br>
-- 🤝 Open to collaboration on meaningful web development projects.<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jamikeobi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏆 Certifications<br>
+---
+[![](https://komarev.com/ghpvc/?username=jamikeobi&icon=3&color=0)](https://visitcount.itsvg.in)
 
-- ✅ CompTIA Frontend Web Development Certification<br>
-- ✅ CompTIA Backend Web Development Certification<br>
-
-## 🌐 Portfolio<br>
-
-🔗 [My Portfolio Website](https://jamike-obikwelu.netlify.app/) <br>
-
-## 🔗 Connect With Me<br>
-
-- [LinkedIn](https://www.linkedin.com/in/jamike-obikwelu-echiegbue/) <br>
-- [Twitter](https://x.com/JObikwelu2006)  <br>
-
-## 📫 Contact<br>
-- Email : jamikeobikwelu@gmail.com <br>
-Feel free to connect with me for collaborations, professional opportunities, or discussions about web development.<br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
